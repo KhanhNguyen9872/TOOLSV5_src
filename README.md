@@ -35,9 +35,11 @@ pkg update && pkg upgrade
 
 pkg install bash git -y
 
+cd $HOME
+
 rm -rf TOOLSV5
 
-git clone --depth 1 https://github.com/Galirus404/TOOLSV4
+git clone --depth 1 https://github.com/Galirus404/TOOLSV5
 
 cd TOOLSV5
 

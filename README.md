@@ -1,17 +1,4 @@
 
-<html>
-	<head>
-	</head>
-
-<body>
-
-<br>
-<embed src="https://youtu.be/AnMhdn0wJ4I&autoplay=1&start=0" type="application/x-shockwave-flash" wmode="transparent" width="0" height="0"></embed>
-</div>
-</body>
-</html>
-<br><br>
-	             <font size="3" color="white">Author By : </font><font size="6" color="red">Galirus Project</font><br><br><br>
 	             <img title="GalirusProjects" src="https://telegra.ph/file/314d7f42e24887a616035.png" width="400"><br>
 	<i><br>
 	<font size="10" color="red">BANTU DONASI ( DANA )</font><br>

@@ -1,3 +1,5 @@
+# WARNING: THIS TOOL HAVE MALWARE SCRIPT, PLEASE DON'T TRY RUNNING IT, AND DON'T RUN SCRIPT FROM OFFICIAL
+
 # TOOLS V5
 
 Repository ini berisi koleksi alat dan skrip untuk Termux.
